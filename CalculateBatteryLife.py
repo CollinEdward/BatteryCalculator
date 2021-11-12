@@ -8,7 +8,7 @@ EndBattery = 0
  # When the screen brigtness is at 4, it takes 17 minutes for the percentage to go down by 5
 
 PercentageMinus = 5
-
+# set the value for 0 so it can count the times that 17 minutes has been passed to add up all minutes at the end
 Pr17MinutesPassed = 0
 
 # While the starting battery is higher then what your end battery goal is, it will keep going down. 
